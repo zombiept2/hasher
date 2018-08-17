@@ -1,0 +1,4 @@
+tmp/*
+!tmp/index.php
+config.php
+error_log
